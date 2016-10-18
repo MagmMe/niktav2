@@ -1,29 +1,270 @@
 <!DOCTYPE html>
 <html lang="pl">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Title Page</title>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Nikta - Producent Maszyn Obuwniczych</title>
 
-		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <!-- Font Open Sans, Raleway -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
-		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-		<![endif]-->
-	</head>
-	<body>
-		<h1 class="text-center">Hello World</h1>
+    <!-- Bootstrap -->
+     <link rel="stylesheet" href="css/animate.css">
+    <link href="css/bootstrap.css" rel="stylesheet">
 
-		<!-- jQuery -->
-		<script src="//code.jquery.com/jquery.js"></script>
-		<!-- Bootstrap JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
- 		<script src="Hello World"></script>
-	</body>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+      <!-- ################### -->
+      <!-- Nikta Main Menu -->
+      <!-- ############ -->
+        <header id="menu" class="navbar-fixed-top">
+          <div class="container">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+              <nav class="navbar navbar-inverse" role="navigation" id="pasek-nawigacji">
+                <div class="container-fluid">
+
+                    <!-- Naleśnik -->
+
+                  <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#moje-menu">
+                      <span class="sr-only">Nawigacja</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <div id="logo"><a href="#" class="navbar-brand"><img src="images/nikta_logo.png" alt=""></a></div>
+                  </div> <!-- Naleśnik end -->
+                    <!-- zawartość paska menu -->
+                      <div id="moje-menu" class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                          <li class="active magme_pulse"><a href="#">Strona Główna</a></li>
+                          <li class="magme_pulse"><a href="#onas">O nas</a></li>
+
+                              <!-- Maszyny -->
+                              <li class="dropdown magme_pulse">
+                                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Maszyny<span class="caret"></span></a>
+                                  <ul class="dropdown-menu">
+                                    <li><a href="#">Maszyny i urządzenia</a></li>
+                                    <li><a href="#">Części zamienne</a></li>
+                                    <li><a href="#">Katalogi</a></li>
+                                    <li><a href="#">Skup maszyn</a></li>
+                                  </ul>
+                                </li>
+
+                          <li class="magme_pulse"><a href="#">Materiały</a></li>
+                          <li class="magme_pulse"><a href="#">Kontakt</a></li>
+
+                              <!-- Langugaes -->
+                              <li class="dropdown lang_magme">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="images/lang/lang-pl.jpg" alt=""> polski <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                  <li><a href="#"><img src="images/lang/lang-eng.jpg" alt=""> English</a></li>
+                                  <li><a href="#"><img src="images/lang/lang-rus.jpg" alt=""> Russian</a></li>
+                                  <li><a href="#"><img src="images/lang/lang-ita.jpg" alt=""> Italiano</a></li>
+                                </ul>
+                              </li>
+                        </ul>
+                      </div> <!-- - Koniec paska menu -->
+                </div>
+              </nav>
+            </div>
+          </div>
+        </header>
+
+        <!--#############-->
+        <!--Slider-->
+       <!--#############-->
+
+
+         <div class="carousel slide paralax" id="slider" data-ride="carousel">
+
+              <!-- Znaczniki slajdów - kropki -->
+              <ol class="carousel-indicators">
+                <li data-target="#slider" data-slide-to="0" class="active"></li>
+                <li data-target="#slider" data-slide-to="1"></li>
+             </ol> <!-- koniec znaczników -->
+
+            <!-- Slajdy -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="images/slider1.jpg" alt="" class="img-responsive">
+
+                  <!-- Podpis na zdjęciu -->
+                  <!-- <div class="carousel-caption">
+                    <h1 class="text-right" >Maszyny<br>obuwnicze</h1>
+                    <p class="lead text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum quo facilis molestiae tenetur vero voluptates!</p><!-- Koniec na zdjęciu -->
+                 <!--  </div> -->
+              </div>
+              <div class="item">
+                <img src="images/slider2.jpg" alt="" class="img-responsive">
+
+                  <!-- Podpis na zdjęciu -->
+                  <!-- <div class="carousel-caption">
+                    <h1 class="text-right">Maszyny obuwnicze</h1>
+                    <p class="lead text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum quo facilis molestiae tenetur vero voluptates!</p>
+                    <!--  Koniec na zdjęciu -->
+                  <!-- </div> -->
+              </div><!-- </div>  Koniec slajdów -->
+
+
+              <!-- Kontrolery - strzałki zmiany slajdów -->
+
+              <a class="left carousel-control" href="#slider" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Poprzedni</span>
+              </a>
+
+              <a class="right carousel-control" href="#slider" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Następny</span>
+              </a>
+
+            </div>
+
+          </div>
+
+        <!-- ########### -->
+        <!-- Nowości w ofercie -->
+        <!-- ########### -->
+
+      <section id="nowosci">
+           <div class="container">
+              <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                  <h2><strong>Nowości</strong> w naszej ofercie</h2>
+                  <hr>
+                  <h4>Najnowsze maszyny i urządzenia.</h4>
+                </div>
+              </div>
+          </div>
+          <div class="container portfolio">
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="nav nav-pills maszyny_menu">
+                  <li role="presentation" class="active"><a href="#maszyny" data-toggle="tab" role="tab">Alberti Fratelli</a></li>
+                  <li role="presentation"><a href="#akcesoria" data-toggle="tab" role="tab">Sabal</a></li>
+                  <li role="presentation"><a href="#inne" data-toggle="tab" role="tab">Atom</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="tab-content">
+                  <div role="tab-panel" class="tab-pane fade in active" id="maszyny">
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-5 col-md-5 col-lg-6">
+
+                          <img src="images/mach1.jpg" alt="" class="img-responsive">
+                      </div>
+                      <div class="col-xs-12 col-sm-7 col-md-7 col-lg-6">
+
+                          <h3 class="colorTwo">Producent:<strong> ALBERTI FRATELLI</strong></h3>
+                          <h4>Model: <strong>AV2MA</strong></h4>
+                          <h4>Stan: <strong>NOWA</strong></h4>
+                          <h4>Opis:</h4>
+                          <p>Ścieniarka brzegu.Maszyna wyposażona w: - regulacje: szerokości / kąta / grubości ścieniania - wentylator, - pochłaniacz, Regulacja szerokości: 0-50 [mm]</p>
+                      </div>
+                    </div>
+
+                  </div>
+                  <div role="tab-panel" class="tab-pane fade" id="akcesoria">
+
+                        <div class="row">
+                      <div class="col-xs-12 col-sm-5 col-md-5 col-lg-6">
+
+                          <img src="images/mach2.jpg" alt="" class="img-responsive">
+                      </div>
+                      <div class="col-xs-12 col-sm-7 col-md-7 col-lg-6">
+
+                          <h3>Producent:<strong> SABAL</strong></h3>
+                          <h4>Model: <strong>300/14V/7</strong></h4>
+                          <h4>Stan: <strong>NOWA</strong></h4>
+                          <h4>Opis:</h4>
+                          <p>OPIS: Przybijarka obcasów. - sekwencyjne wbijanie gwoździ; - docisk obcasa poprzez hydrauliczny siłownik; - sterowanie elektryczne; - zasyp na 14 gwoździ + centralny; - 7 siłowników wbijających gwoździe + centralny; - automatyczny lub manualny zasyp gwoździ; - ruchome ramie do zakładania obuwia typu kozak; - regulacja siły oraz głębokości wbijania gwoździ; - wydajność: ok. 2.000 par/8h; - zużycie powietrza: 22 l/cykl; - zasilanie: 380V 50-60 Hz; - moc: 0,100 kW; - wymiary: 700x770x2050 mm; - waga: 415 kg;</p>
+                      </div>
+                    </div>
+
+                  </div>
+                  <div role="tab-panel" class="tab-pane fade" id="inne">
+
+                        <div class="row">
+                      <div class="col-xs-12 col-sm-5 col-md-5 col-lg-6">
+
+                          <img src="images/mach3.jpg" alt="" class="img-responsive">
+                      </div>
+                      <div class="col-xs-12 col-sm-7 col-md-7 col-lg-6">
+
+                          <h3>Producent:<strong> ATOM</strong></h3>
+                          <h4>Model: <strong>SE20C</strong></h4>
+                          <h4>Stan: <strong>NOWA</strong></h4>
+                          <h4>Opis:</h4>
+                          <p>OPIS: Hydrauliczna wycinarka ramienna: Wielkość stołu roboczego: 900x450 [mm] Szerokość młota: 370 [mm] Maksmalna odległość pomiędzy młotem a stołem: 90 [mm] Siła: 20 [Ton] Moc silnika: 0,9 [kW] Waga: 630 [kg] Wymiary: 900x870x1400 [mm] Maszyna nowa w komplecie: - nowy kloc 900x450x25; - nowy olej; - gwarancja 12 miesięcy;</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </section>
+
+           <!-- ###### -->
+          <!-- Szybki kontakt -->
+           <!-- ###### -->
+
+         <section id="kontakt">
+          <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-6">
+                     <h2><span class="magme_red">Sktontaktuj się z nami.</span></h2>
+                     <hr>
+                     <p class="magme_black"><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae ad debitis velit maiores totam omnis, vel vitae quibusdam sint obcaecati, quidem odit ipsum facilis rem amet ea itaque deserunt. Alias.</strong></p>
+                </div>
+
+                <div class="col-md-6 col-lg-6">
+
+                      <h2><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span><span class="magme_red"> 033 812 58 09</span></h2>
+                </div>
+            </div>
+          </div>
+        </section>
+
+                 <!-- ###### -->
+                <!-- Footer -->
+                <!-- ###### -->
+
+        <section id="stopka">
+          <div class="container">
+            <footer class="row">
+              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                  <p>Copyright by Nikta 2016</p>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 social_icons">
+                <a href="#"><img src="images/icons/facebook.png" alt="" class="img-responsive"></a>
+                <a href="#"><img src="images/icons/googleplus.png" alt="" class="img-responsive"></a>
+                <a href="#"><img src="images/icons/twitter.png" alt="" class="img-responsive"></a>
+                <a href="#"><img src="images/icons/vimeo.png" alt="" class="img-responsive"></a>
+
+              </div>
+            </footer>
+          </div>
+
+        </section>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/magme.js"></script>
+  </body>
 </html>

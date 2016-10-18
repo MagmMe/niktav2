@@ -1,0 +1,267 @@
+// Created by Magme
+
+@fontColor: #868686;
+@magmeWhite: #fff;
+@magmeBlack: #000;
+@magmeRed: #F22835;
+@magmePink: #DB004E;;
+@magmeOrange: #E8A527;
+@magmeBlue: #6143EE;
+@magmeGrey: #DEE2E2;
+@magmeDarkRed: #CD2835;
+
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	font-family: 'Raleway', sans-serif;
+	color: @fontColor;
+	background: @magmeWhite;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 300;
+}
+
+h1{
+	font-size: 6rem;
+}
+
+h2{
+	font-size: 4rem;
+	line-height: 6rem;
+}
+
+h3{
+	font-size: 2.5rem;
+}
+
+h2, h3{
+	color: @magmeRed;
+}
+
+// Horizontal Lines
+
+hr {
+	position: relative;
+	left: -35%;
+	width: 30%;
+	border-top: 1px solid @magmePink;
+}
+
+.line_magme_orange{
+	border-top: 1px solid @magmeOrange;
+}
+
+.line_magme_blue{
+	border-top: 1px solid @magmeBlue;
+}
+
+.line_magme_white{
+	border-top: 1px solid @magmeWhite;
+}
+
+// Logo
+
+#logo{
+
+	img{
+		width: 130px;
+		margin-top: -10px;
+	}
+}
+
+// Menu Głowne
+
+#menu{
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.navbar-outer{
+	width: 1200px;
+}
+
+.navbar-inverse{
+	background-color: transparent;
+	border: none;
+	font-size: 1.7rem;
+	color: @magmeWhite;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.navbar-inverse .navbar-nav > li {
+
+	padding-top: 10px;
+
+	 >a{
+		color: @magmeGrey;
+		margin-left: 5px;
+		border: 1px solid transparent;
+		line-height: 1rem;
+
+		&:hover{
+			border-bottom: 1px solid @magmeRed;
+			line-height: 1rem;
+			color: @magmeRed;
+			-webkit-transition: all 0.7s ease;
+	   		-moz-transition: all 0.7s ease;
+	   		 -ms-transition: all 0.7s ease;
+	    	 -o-transition: all 0.7s ease;
+	        transition: all 0.7s ease;
+		}
+	}
+}
+
+
+.navbar-inverse .navbar-nav > .active > a{
+	display: block;
+	border-bottom: 1px solid @magmeRed;
+	background-color: transparent;
+
+	&:hover{
+		background-color: transparent;
+	}
+}
+
+.dropdown-toggle {
+	border-color: @magmeDarkRed;
+}
+
+// Języki
+
+#moje-menu .lang_magme{
+	font-size: 0.8em;
+	border-bottom: none;
+
+	a:hover{
+		border-bottom:  none;
+	}
+
+}
+
+#moje-menu .dropdown.open a:focus{
+	background-color: @magmeBlack;
+	border-color: @magmeDarkRed;
+}
+
+
+// Slider
+
+#slider {
+	padding-top: 99px;
+
+	.carousel .item {
+			max-height: 200px;
+
+		 img {
+			height: 200px;
+		}
+	}
+}
+
+// Nowości
+
+
+/* Nowości */
+
+	#nowosci{
+		padding-top: 3%;
+
+			h2 {
+		line-height: 2rem;
+		}
+
+			h4 {
+		line-height: 4rem;
+		}
+
+		.portfolio{
+		padding: 1% 10%;
+
+		}
+	}
+
+	.nav-pills > li {
+		float: none;
+		display: inline-block;
+
+	}
+
+	.maszyny_menu >li >a {
+		background-color: #fff;
+		border: 1px solid #DB004E;
+		color: #DB004E;
+
+	}
+
+	.maszyny_menu >li.active >a, .maszyny_menu >li.active >a:focus, .maszyny_menu >li.active >a:hover {
+		color: #fff;
+		background-color: #DB004E;
+	}
+
+	.maszyny_menu >li >a:hover {
+		background-color: #fff;
+	}
+
+	.tab-content{
+		margin-top: 2%;
+		margin-left: 2%;
+		border: 1px solid #DB004E;
+		border-left: none;
+		border-radius: 0px 20px 20px 0;
+	}
+
+
+	// Szybki kontakt
+
+	/* Kontakt */
+
+#kontakt {
+	background: #2E2F2F;
+	color: #fff;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	margin:  0 auto;
+	max-width: 1440px;
+	background-image: url('../images/bg_nikta3.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+
+	h2, p {
+	padding-left: 10%;
+	}
+	hr {
+	left: -25%;
+	}
+}
+
+// Footer
+
+/* Footer */
+
+#stopka {
+	padding-top: 4rem;
+	font-weight: 100;
+	padding-bottom: 2rem;
+	text-align: left;
+	background-color: #000;
+	color: #fff;
+
+	img {
+	float: right;
+	margin-left: 1rem;
+	width: 5%;
+
+		&:hover{
+			-webkit-animation: pulse .8s ease;
+			-o-animation: pulse .8s ease;
+			animation: pulse .8s ease;
+		}
+	}
+}
+
+

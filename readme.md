@@ -1,1 +1,0 @@
-This is a second version of site based on Bootstrap.

@@ -1,0 +1,1 @@
+function animationHover(n,e){n=$(n),n.hover(function(){n.addClass("animated "+e)},function(){window.setTimeout(function(){n.removeClass("animated "+e)},2e3)})}$(document).ready(function(){$(".magme").each(function(){animationHover(this,"pulse")})}),$(document).ready(function(){$(".magme_pulse").each(function(){animationHover(this,"pulse")})});
