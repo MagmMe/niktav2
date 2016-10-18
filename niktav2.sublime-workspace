@@ -1,0 +1,1598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bs3-ht",
+				"bs3-template:html5\tbs3-html5-template"
+			],
+			[
+				"bs3-h",
+				"bs3-template:html5\tbs3-html5-template"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"trans",
+				"transform\tCSS - transform: ;"
+			],
+			[
+				"tra",
+				"transform\tCSS - transform: ;"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"anima",
+				"animation-timing-function"
+			],
+			[
+				"animation-d",
+				"animation-duration"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"anim",
+				"anim-\tanimation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"transiti",
+				"transition-timing-function"
+			],
+			[
+				"transit",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"insert",
+				"insertBefore(newElement, referenceElement)\tNode"
+			],
+			[
+				"getele",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"do",
+				"document\tDocument"
+			],
+			[
+				"crea",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"inse",
+				"insertBefore(newElement, referenceElement)\tNode"
+			],
+			[
+				"app",
+				"appendChild(aChild)\tNode"
+			],
+			[
+				"cre",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"q",
+				"querySelector(selectors)\tElement"
+			],
+			[
+				"Ima",
+				"new Image()"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Im",
+				"new Image()"
+			],
+			[
+				"textN",
+				"createTextNode(data)\tDocument"
+			],
+			[
+				"getelement",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"geteleme",
+				"getElementsByTagName(name)\tElement"
+			],
+			[
+				"cono",
+				"console.log()"
+			],
+			[
+				"qu",
+				"querySelectorAll(selectors)\tElement"
+			],
+			[
+				"getelem",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"clear",
+				"clearInterval(intervalID)\tWindow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"setTi",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"t",
+				"throw"
+			],
+			[
+				"new",
+				"new Error(message)\tError"
+			],
+			[
+				"get",
+				"getDate()\tDate"
+			],
+			[
+				"Mat",
+				"Math.random()\tMath"
+			],
+			[
+				"Ma",
+				"Math.PI\tMath"
+			],
+			[
+				"l",
+				"length\tString"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"delete",
+				"delete(Object)\tObject"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"spl",
+				"splice(index, howMany)\tArray"
+			],
+			[
+				"sp",
+				"splice(index, howMany)\tArray"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"un",
+				"unshift(element1)\tArray"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"func",
+				"new Function()\tFunction"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"czlowiek",
+				"czlowiek2"
+			],
+			[
+				"dow",
+				"do while()"
+			],
+			[
+				"w",
+				"while()"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"alert",
+				"alert(message)\tWindow"
+			],
+			[
+				"aler",
+				"alert(message)\tWindow"
+			],
+			[
+				"ale",
+				"alert(message)\tWindow"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"conta",
+				"container_width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bs3-t",
+				"bs3-table\tbs3-table"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"width\tStyle CSS"
+			],
+			[
+				"transition-",
+				"transition-duration"
+			],
+			[
+				"bl",
+				"blur()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"flex-sh",
+				"-webkit-flex-shrink"
+			],
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"colu",
+				"column-reverse"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"ite",
+				"justify-items"
+			],
+			[
+				"ov",
+				"ov-h\toverflow: hidden;"
+			],
+			[
+				"fl",
+				"fl-l\tfloat: left;"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"flex-gr",
+				"-webkit-flex-grow"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"jus",
+				"-webkit-justify-self"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"fex",
+				"flex-direction"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-clip"
+			],
+			[
+				"Fotn",
+				"font-family"
+			],
+			[
+				"fi",
+				"fixed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 13340,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/magme.less",
+			"settings":
+			{
+				"buffer_size": 3490,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/magme.js",
+			"settings":
+			{
+				"buffer_size": 656,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "synt ja",
+		"selected_items":
+		[
+			[
+				"synt ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synt h",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt",
+				"Set Syntax: CSS3"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"bs3 h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn  cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"SYN JA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"fect",
+				"Fetch: Manage"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"styn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sty",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"syn ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syn",
+				"Set Syntax: Less"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"synt css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"File",
+				"File: Copy as Tag style"
+			],
+			[
+				"file",
+				"File: Copy as Tag script"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"synt hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"net",
+				"File: New File Relative to Current View"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"synt java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip media",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"sni bs3",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"sni",
+				"Snippet: bs3-navbar-inverse"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				" htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: YAML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synt jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"styn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"SYN HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn c",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyn css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fetch ",
+				"Fetch: Manage"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-h",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: div",
+				"Snippet: <div>"
+			],
+			[
+				"pacga",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/js",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/less"
+	],
+	"file_history":
+	[
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C22A694B-EBC9-48E8-8269-818F6E1EC366/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/js/script.js",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/less/style.less",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/js/magme.js",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/less/magme.less",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/less/bootstrap.less",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/docs/about.html",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/evaluate_javascript/Evaluate-JavaScript.sublime-settings",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/helper/helper.sublime-settings",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/User/helper.sublime-settings",
+		"/Users/MarcinMagiera/Downloads/bootstrap-3.3.7/docs/getting-started.html",
+		"/Users/MarcinMagiera/Downloads/bootstrap-sass-3.3.7/README.md",
+		"/Users/MarcinMagiera/Downloads/apple-iphone5s-website-one-page-scroll/css/style.css",
+		"/Users/MarcinMagiera/Downloads/apple-iphone5s-website-one-page-scroll/css/onepage-scroll.css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/index.html",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/less/style.less",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/js/script.js",
+		"/Users/MarcinMagiera/Desktop/Nikta/Niktav2/readme.md",
+		"/Users/MarcinMagiera/Desktop/Nikta/Menu_slide/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/bootstrap-3.3.7/docs/getting-started.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/bootstrap-3.3.7/docs/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_v2/bootstrap-sass-3.3.7/README.md",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/DC709969-42A0-494C-88C7-D8F8D1091C9B/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BA4AD616-294C-4EC1-A21C-A80A3E87EA63/wp-config.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/619FF174-F5E4-4F8D-A542-5CA1FA02898D/index.html",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/images/TerragraphLogo.png",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/71EDCDD1-CDBE-4AAE-9C70-AE241E0366FF/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/88C4C8CF-0703-4C05-B0AE-1B80F6892771/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/6A829D55-AFC1-4FC4-885D-2282526004CE/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C0055E1B-97EE-4F7F-AEC2-F5C25BA55E9D/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C77A3280-A567-4865-B014-22D0DFB28973/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/1D94C0FA-2056-4C0B-9C7E-FF6A7DFEB458/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A26ABA88-76CB-41A0-9AE2-8E45C616A80D/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D8BE2B45-0DE7-47B7-B3E3-F7F45814C1FC/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2920E20F-11EE-4EF1-981F-FC1AB5B2E190/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B84600F0-BDEA-42CF-B3F2-AC0163F17F80/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/63243D37-CDFB-4478-ADD2-D2160CF58924/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/32E1F5B8-2884-4EB6-B821-A02D454D4C31/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/AEA9FD7D-A725-4A21-A287-9ADCD45E2944/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/EAE0CE71-3884-4AAE-9BFA-BF5F5F677F65/index.html",
+		"/Users/MarcinMagiera/Downloads/startbootstrap-scrolling-nav-gh-pages/js/scrolling-nav.js",
+		"/Users/MarcinMagiera/Downloads/Linearicons-Free-v1.0.0/Desktop Font/demo-files/demo.css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/config.codekit",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2277A44F-0DA9-4DA1-BFA1-F3D4660E9AE4/global.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/E3849199-E092-440E-8A83-8714AB53B909/index.html",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/index.html",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/info.txt",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/css/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/CB8BB7CD-C192-4E39-872F-63A6FC6CDBFF/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BB3ED5AB-8653-44D5-90AF-D7BB28A2BA0C/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/0D763F64-7A02-4B45-8A17-B3D6F984C02F/styles.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/309E6EDA-3022-4ABD-AE92-F7893DE5731C/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/569DBCCA-3EF1-47FE-9468-4A73CB73FBE0/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/4E367303-D010-44F2-BB8F-C5B36A5FC1DE/styles.css",
+		"/Users/MarcinMagiera/Desktop/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3338419B-23BF-48E7-8C09-4AB4D6E5757E/style.css",
+		"/Users/MarcinMagiera/Desktop/Terragraph/Terragraph_Site/js/npm.js",
+		"/Users/MarcinMagiera/Desktop/global.js",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/ED30A6F9-07DD-4B4D-9345-0B23BEC9C6FE/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3E83C228-5201-4A2A-8352-BA4DB219B96C/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/B3160F66-E45B-4D20-A65B-61700A1CAC78/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2AC7F781-CA90-4B57-BCE4-1E27855C6945/style.css",
+		"/Users/MarcinMagiera/Desktop/Rafolo/index.html",
+		"/Users/MarcinMagiera/Desktop/Rafolo/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44DE7512-7068-440D-873F-2E0458F28E52/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44727E20-3BDA-43B7-BDBD-0DFE4BCDE953/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8DAD35A8-66EF-422C-912C-9E4101D89F42/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/6C65A2A1-AF39-4CC4-9C1A-7A40CDD0D450/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/06444034-1813-4FD6-9717-DAA38DC465F8/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/576FBF16-1659-428F-8048-E30332EB2F6B/custom-admin.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2E26AFA7-DCFB-4F0D-85A0-52F9551B73DB/options.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/984C8EBB-5A0D-4EFF-A40D-4CA876740ED7/style.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A8B64B83-F125-43C6-804F-1A6973F47563/flexslider.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D87F3998-4C39-49B8-892A-0B8F93BB3433/functions.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8B00F41E-0DE8-4957-8BE5-45D2D7E28CE0/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/820C1A15-1F7E-439B-8F84-24453192510C/theme.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/98CB84DF-6D5E-4D6C-AFFA-597BF4AF6345/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/9E66E86A-0203-4168-9FCB-4A667259FB52/index.html",
+		"/Users/MarcinMagiera/Downloads/PreLoadMe-master/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/C486073D-B873-4101-BC14-56CD5DB7944B/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/45DB1770-3E86-4093-A891-00B6A0848589/styles.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/313E403F-1004-46E9-A247-05181154A3C8/styles.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/607D6B45-A5D4-486A-A0B8-4A47E957D903/styles_ajax.css",
+		"/Users/MarcinMagiera/Downloads/PreLoadMe-master/css/styles_ajax.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/A95A9902-BFD0-4F75-A3C6-585373F5AD41/index.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/44C88C8A-02CF-4D21-AF4E-5A91BF4BE7B3/rozpakuj.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/556CDD45-4213-4A63-AE29-5A3EC45EDF19/rozpakuj.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/3ADD02CB-725E-4EA6-92F5-0C3B98D6490B/rozpakuj.php",
+		"/Users/MarcinMagiera/Documents/WordPress- konfiguracja/rozpakuj.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/435B9A94-D7B9-4864-BE27-2A82D450C74A/cd0fcd0ab507.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/D5DA8809-B7EF-4FFA-9CA2-682398ADB92E/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/Nikta_One/css/responsive.css",
+		"/Users/MarcinMagiera/Desktop/animate.js",
+		"/Users/MarcinMagiera/open",
+		"/Users/MarcinMagiera/Documents/www/CSS3/10_Transitions/style.css",
+		"/Users/MarcinMagiera/Documents/www/CSS3/10_Transitions/index.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/08/08_02/start/index.html",
+		"/Users/MarcinMagiera/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/06/06_01/start/06_01.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_08/start/04_08.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/09/09_04/index.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/09/09_04/css/wlasny.css",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_07/start/04_07.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_06/start/04_06.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/04/04_02/start/04_02.html",
+		"/Users/MarcinMagiera/Desktop/Bootstrap_Kurs/03/03_06/start/03_06.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/index.html",
+		"/Users/MarcinMagiera/Desktop/Nikta/Bootstrap/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Nikta/index.html",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/css/bootstrap-theme.css",
+		"/Users/MarcinMagiera/Documents/www/My Websides/6. Bootstrap/App/css/bootstrap.css",
+		"/Users/MarcinMagiera/Desktop/Project/js/script.js",
+		"/Users/MarcinMagiera/Desktop/Project/css/style.css",
+		"/Users/MarcinMagiera/Desktop/Project/index.html",
+		"/Users/MarcinMagiera/Desktop/Project/css/bootstrap-theme.css",
+		"/Users/MarcinMagiera/Desktop/Project/style.css",
+		"/Users/MarcinMagiera/Desktop/Project/script.js",
+		"/Users/MarcinMagiera/Downloads/gorecki/index.html",
+		"/Users/MarcinMagiera/Downloads/gorecki/podglad.html",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/2ED85CEB-9724-421A-87DF-36D5BA138C12/style.css",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/BC219F99-BE5D-496A-A765-957F94179D80/index.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/151610EF-2AFF-44D0-B5A8-B43564BCEB40/index.php",
+		"/Users/MarcinMagiera/Library/Caches/Cleanup At Startup/Transmit/8A994944-0906-4D86-9DE4-7328ECD65236/style.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"footer",
+			"h2",
+			".black-overlay",
+			"black-overlay",
+			"important",
+			"!important;",
+			"!important",
+			"header",
+			"font-family",
+			"large-3",
+			"h2",
+			"share",
+			"all",
+			"media",
+			"share",
+			"'share'",
+			"share",
+			".share",
+			"share",
+			"large-12",
+			"Recenzje",
+			"background",
+			"'league tables'",
+			"%;",
+			"div",
+			"\n.",
+			"accessibilityCss",
+			"#accessibilityCss",
+			"section",
+			"seciotn",
+			"$result",
+			"$",
+			"height",
+			"backgroudn",
+			"background",
+			"\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis consequatur ea velit nihil, qui dignissimos tenetur, aperiam tempore veniam, harum voluptatum sed. Aliquid illum consectetur, minus ad natus, harum consequatur.\n\t\n\n\t<div>\n\t\t<ul>\n\t\t\t<li>zero</li>\n\t\t\t<li>One</li>\n\t\t\t<li>Two</li>\n\t\t\t<li>Three</li>\n\t\t\t<li>Five</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t\t<li>eight</li>\n\t\t</ul>\n\t</div>\n\n",
+			"div",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum facilis at qui similique rem modi fugiat? Placeat suscipit odio ratione sit fugit similique ipsam. Autem similique corrupti consequatur! Excepturi, voluptates.\n",
+			"data",
+			"likked",
+			"link",
+			"menu",
+			"\t\t\t\t\t\n",
+			"bar",
+			"icon-bar\"></span>\n\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t<span class=\"icon-b",
+			"bar",
+			"icon-bars",
+			"icon-bar",
+			"()\">",
+			"home section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"icon-bar",
+			"icon-bars"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12088,
+								12088
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										12087,
+										12094
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										11283,
+										11290
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/magme.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								934,
+								934
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										934,
+										935
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										921,
+										922
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/magme.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 88.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "niktav2.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"cu",
+				"js/custom.js"
+			],
+			[
+				"si",
+				"single.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"boo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"in",
+				"~/Documents/www/My Websides/6. Bootstrap/App/index.html"
+			],
+			[
+				"bo",
+				"css/bootstrap-theme.css"
+			],
+			[
+				"boot",
+				"js/bootstrap.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
