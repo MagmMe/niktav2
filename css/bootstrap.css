@@ -6728,7 +6728,7 @@ body {
 }
 body {
   font-family: 'Raleway', sans-serif;
-  color: #868686;
+  color: #000;
   background: #fff;
 }
 h1,
@@ -6773,7 +6773,7 @@ hr {
   margin-top: -10px;
 }
 #menu {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 .navbar-outer {
   width: 1200px;
@@ -6782,7 +6782,7 @@ hr {
   background-color: transparent;
   border: none;
   font-size: 1.7rem;
-  color: #fff;
+  color: #000;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
@@ -6790,7 +6790,7 @@ hr {
   padding-top: 10px;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #DEE2E2;
+  color: #000;
   margin-left: 5px;
   border: 1px solid transparent;
   line-height: 1rem;
