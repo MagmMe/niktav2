@@ -1,5 +1,30 @@
 // Magmme
 
+// Paralax
+function parallax(){
+  var scrolled = $(window).scrollTop();
+  $('.hero').css('top',-(scrolled*0.0315)+'rem');
+  $('.hero > h1').css('top',-(scrolled*-0.005)+'rem');
+  $('.hero > h1').css('opacity',1-(scrolled*.00375));
+};
+
+
+$(window).scroll(function(e){
+  parallax();
+});
+
+
+/*$(window).scroll(function(){
+      if($(this).scrollTop() > 400){
+        $('.hero > h1').css('opacity',0);
+    } else {
+      $('.hero > h1').css('opacity',1);
+    }
+    });*/
+
+
+// Animate
+
 function animationHover(element, animation){
     element = $(element);
     element.hover(

@@ -169,6 +169,9 @@ hr {
 /* Nowości */
 
 	#nowosci{
+		-webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);
+ 		box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    	border-top: 2px solid rgba(255,255,255,.2);
 		padding-top: 3%;
 
 			h2 {
@@ -221,6 +224,9 @@ hr {
 	/* Kontakt */
 
 #kontakt {
+
+	box-shadow: 0 -2px 1px rgba(0,0,0,.15);
+    border-top: 1px solid rgba(255,255,255,.2);
 	background: #2E2F2F;
 	color: #fff;
 	padding-top: 5%;
@@ -265,3 +271,59 @@ hr {
 }
 
 
+// Kontakt
+
+
+  .hero {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    bottom:  0;
+    left: 0;
+    right: 0;
+
+    background: url('../images/home-bg.jpg');
+    background-size: cover;
+    max-height: 450px;
+    max-width: 100%;
+
+    &:before {
+      content: '';
+      height: 100%;
+      width: 100%;
+      max-height: 450px;
+      max-width: 100%;
+      background: rgba(44,123,183,.5);
+      position: absolute;
+    }
+
+    h1 {
+      position: relative;
+      z-index: 1;
+
+      font-family: 'Pacifico', cursive;
+      color: rgba(255,255,255,1);;
+      text-align: center;
+      font-size: 4rem;
+      line-height: 4rem;
+
+      text-shadow: 0 2px 2px rgba(0,0,0,.35);
+      max-width: 25rem;
+      margin: 30vh auto 0;
+
+      /*-webkit-transition: 1s opacity ease-in-out;*/
+    }
+  }
+
+  .content {
+    position: absolute;
+    z-index: 1000;
+    top: 70vh;
+
+    background: rgb(255,255,255);
+    height: 100vh;
+    width: 100vw;
+
+    box-shadow: 0 -2px 1px rgba(0,0,0,.15);
+    border-top: 1px solid rgba(255,255,255,.2);
+  }
