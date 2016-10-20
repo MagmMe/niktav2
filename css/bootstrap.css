@@ -6935,19 +6935,18 @@ hr {
   width: 100%;
   max-height: 450px;
   max-width: 100%;
-  background: rgba(44, 123, 183, 0.5);
+  background: rgba(0, 0, 0, 0.3);
   position: absolute;
 }
 .hero h1 {
   position: relative;
   z-index: 1;
-  font-family: 'Pacifico', cursive;
   color: #ffffff;
   text-align: center;
   font-size: 4rem;
   line-height: 4rem;
   text-shadow: 0 2px 2px rgba(0, 0, 0, 0.35);
-  max-width: 25rem;
+  max-width: 55rem;
   margin: 30vh auto 0;
   /*-webkit-transition: 1s opacity ease-in-out;*/
 }
