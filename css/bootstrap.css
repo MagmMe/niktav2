@@ -7010,15 +7010,15 @@ hr {
 #formularz a {
   color: #F22835;
 }
-#maszynyKafelki {
+.maszynyKafelki {
   padding-top: 10%;
   padding-bottom: 2%;
 }
-#maszynyKafelki .btn {
+.maszynyKafelki .btn {
   border: none;
   border-radius: 1rem;
 }
-#maszynyKafelki .btn:hover {
+.maszynyKafelki .btn:hover {
   border: none;
   background-color: #fff;
 }
@@ -7062,6 +7062,19 @@ hr {
   color: #F22835;
 }
 #maszynyTable td .btn:hover {
+  background-color: #F22835;
+  color: #fff;
+}
+#czesci h1 {
+  color: #F22835;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+#czesci .btn {
+  border: 1px solid #F22835;
+  color: #F22835;
+}
+#czesci .btn:hover {
   background-color: #F22835;
   color: #fff;
 }
