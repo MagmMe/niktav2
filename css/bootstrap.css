@@ -6773,7 +6773,7 @@ hr {
   margin-top: -10px;
 }
 #menu {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.9);
 }
 .navbar-outer {
   width: 1200px;
@@ -6809,6 +6809,7 @@ hr {
   display: block;
   border-bottom: 1px solid #F22835;
   background-color: transparent;
+  color: #F22835;
 }
 .navbar-inverse .navbar-nav > .active > a:hover {
   background-color: transparent;
