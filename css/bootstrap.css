@@ -6918,7 +6918,53 @@ hr {
   -o-animation: pulse .8s ease;
   animation: pulse .8s ease;
 }
-.hero {
+.heroAbout {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url('../images/shoes.jpg');
+  background-size: cover;
+  max-height: 450px;
+  max-width: 100%;
+}
+.heroAbout:before {
+  content: '';
+  height: 100%;
+  width: 100%;
+  max-height: 450px;
+  max-width: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  position: absolute;
+}
+.heroAbout h1 {
+  position: relative;
+  z-index: 1;
+  color: #ffffff;
+  text-align: left;
+  font-size: 4rem;
+  line-height: 4rem;
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.35);
+  max-width: 55rem;
+  margin: 30vh auto 0;
+  /*-webkit-transition: 1s opacity ease-in-out;*/
+}
+.content {
+  position: absolute;
+  z-index: 1000;
+  top: 70vh;
+  background: #ffffff;
+  height: 100vh;
+  width: 100vw;
+  box-shadow: 0 -2px 1px rgba(0, 0, 0, 0.15);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+.oNas {
+  padding-bottom: 3%;
+}
+.heroKontakt {
   position: fixed;
   z-index: 1;
   top: 0;
@@ -6930,7 +6976,7 @@ hr {
   max-height: 450px;
   max-width: 100%;
 }
-.hero:before {
+.heroKontakt:before {
   content: '';
   height: 100%;
   width: 100%;
@@ -6939,7 +6985,7 @@ hr {
   background: rgba(0, 0, 0, 0.3);
   position: absolute;
 }
-.hero h1 {
+.heroKontakt h1 {
   position: relative;
   z-index: 1;
   color: #ffffff;

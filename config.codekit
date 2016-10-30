@@ -311,6 +311,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/onas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67016,
+		"inputAbbreviatedPath": "\/images\/onas.jpg",
+		"outputAbbreviatedPath": "\/images\/onas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/onas_bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -318,6 +329,28 @@
 		"initialSize": 34019,
 		"inputAbbreviatedPath": "\/images\/onas_bg.jpg",
 		"outputAbbreviatedPath": "\/images\/onas_bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pexels-photo-113797.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556722,
+		"inputAbbreviatedPath": "\/images\/pexels-photo-113797.jpeg",
+		"outputAbbreviatedPath": "\/images\/pexels-photo-113797.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pexels-photo-26908.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.43055e+06,
+		"inputAbbreviatedPath": "\/images\/pexels-photo-26908.jpg",
+		"outputAbbreviatedPath": "\/images\/pexels-photo-26908.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -351,6 +384,28 @@
 		"initialSize": 37471,
 		"inputAbbreviatedPath": "\/images\/rzetelnafirma.png",
 		"outputAbbreviatedPath": "\/images\/rzetelnafirma.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shoes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241044,
+		"inputAbbreviatedPath": "\/images\/shoes.jpg",
+		"outputAbbreviatedPath": "\/images\/shoes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shoes_internet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 768337,
+		"inputAbbreviatedPath": "\/images\/shoes_internet.png",
+		"outputAbbreviatedPath": "\/images\/shoes_internet.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
