@@ -7058,8 +7058,22 @@ hr {
   margin-top: 17%;
 }
 #maszynyTable td .btn {
-  border: 1px solid #F22835;
-  color: #F22835;
+  color: #fff;
+  border-color: #000;
+  -webkit-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+  background: #a90329;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+  /* IE6-9 */
 }
 #maszynyTable td .btn:hover {
   background-color: #F22835;
@@ -7113,8 +7127,22 @@ hr {
   border-left: 1px solid #F22835;
 }
 .contentMaterialy .thumbnail .btn {
-  border-color: #F22835;
-  color: #F22835;
+  color: #fff;
+  border-color: #000;
+  -webkit-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+  background: #a90329;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+  /* IE6-9 */
 }
 .contentMaterialy .thumbnail .btn:hover {
   background-color: #F22835;
@@ -7135,4 +7163,22 @@ hr {
 #czesci .jumbotron {
   background-color: #fff;
   border-left: 1px solid #F22835;
+}
+#czesci .jumbotron .btn {
+  color: #fff;
+  border-color: #000;
+  -webkit-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+  background: #a90329;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+  /* IE6-9 */
 }
