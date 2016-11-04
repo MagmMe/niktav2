@@ -7182,3 +7182,34 @@ hr {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
   /* IE6-9 */
 }
+#katalogi h1 {
+  color: #F22835;
+}
+#katalogi h3 {
+  color: #000;
+}
+#katalogi .thumbnail .btn {
+  color: #fff;
+  background-color: #F22835;
+}
+#katalogi .thumbnail .btn:hover {
+  color: #fff;
+  border-color: #000;
+  -webkit-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+  background: #a90329;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #a90329 0%, #8f0222 44%, #6d0019 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+  /* IE6-9 */
+  transition-property: all;
+  transition-duration: 0.8s;
+  transition-timing-function: ease;
+}

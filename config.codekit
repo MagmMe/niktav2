@@ -111,6 +111,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/czesci\/katalog1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65354,
+		"inputAbbreviatedPath": "\/images\/czesci\/katalog1.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/katalog1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/katalog2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24143,
+		"inputAbbreviatedPath": "\/images\/czesci\/katalog2.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/katalog2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/katalog3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21811,
+		"inputAbbreviatedPath": "\/images\/czesci\/katalog3.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/katalog3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/katalog4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28121,
+		"inputAbbreviatedPath": "\/images\/czesci\/katalog4.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/katalog4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/katalog5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23368,
+		"inputAbbreviatedPath": "\/images\/czesci\/katalog5.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/katalog5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/katalog6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33060,
+		"inputAbbreviatedPath": "\/images\/czesci\/katalog6.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/katalog6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/katalog7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104669,
+		"inputAbbreviatedPath": "\/images\/czesci\/katalog7.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/katalog7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/forest-youth-college-friend-157738.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2538,7 +2615,7 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "Niktav2",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_orange"
 	},
 "projectSettings": {
