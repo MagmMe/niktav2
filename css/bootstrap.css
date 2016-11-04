@@ -7059,6 +7059,10 @@ hr {
 }
 #maszynyTable td .btn {
   color: #fff;
+  background-color: #F22835;
+}
+#maszynyTable td .btn:hover {
+  color: #fff;
   border-color: #000;
   -webkit-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 2px 3px 3px 0px rgba(0, 0, 0, 0.4);
@@ -7074,10 +7078,9 @@ hr {
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
   /* IE6-9 */
-}
-#maszynyTable td .btn:hover {
-  background-color: #F22835;
-  color: #fff;
+  transition-property: all;
+  transition-duration: 0.8s;
+  transition-timing-function: ease;
 }
 .heroMaterialy {
   position: fixed;
