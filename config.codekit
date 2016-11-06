@@ -56,6 +56,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/czesciSingle.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/czesciSingle.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/images\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -184,6 +193,94 @@
 		"initialSize": 104669,
 		"inputAbbreviatedPath": "\/images\/czesci\/katalog7.jpg",
 		"outputAbbreviatedPath": "\/images\/czesci\/katalog7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single1.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39474,
+		"inputAbbreviatedPath": "\/images\/czesci\/single1.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single1.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single2.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45943,
+		"inputAbbreviatedPath": "\/images\/czesci\/single2.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single2.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single3.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42095,
+		"inputAbbreviatedPath": "\/images\/czesci\/single3.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single3.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single4.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35656,
+		"inputAbbreviatedPath": "\/images\/czesci\/single4.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single4.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single5.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41815,
+		"inputAbbreviatedPath": "\/images\/czesci\/single5.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single5.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single6.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45109,
+		"inputAbbreviatedPath": "\/images\/czesci\/single6.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single6.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single7.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30497,
+		"inputAbbreviatedPath": "\/images\/czesci\/single7.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single7.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/single8.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33868,
+		"inputAbbreviatedPath": "\/images\/czesci\/single8.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/single8.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2604,6 +2701,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/materialy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/materialySingle.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/materialySingle.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
