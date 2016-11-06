@@ -197,6 +197,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/czesci\/materialy1.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65163,
+		"inputAbbreviatedPath": "\/images\/czesci\/materialy1.jpeg",
+		"outputAbbreviatedPath": "\/images\/czesci\/materialy1.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/czesci\/single1.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,

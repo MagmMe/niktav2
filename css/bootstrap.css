@@ -7286,3 +7286,6 @@ hr {
   transition-duration: 0.8s;
   transition-timing-function: ease;
 }
+.materialySingle {
+  padding-top: 110px;
+}
