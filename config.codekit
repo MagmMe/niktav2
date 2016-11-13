@@ -120,6 +120,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/bieg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130426,
+		"inputAbbreviatedPath": "\/images\/bieg.jpg",
+		"outputAbbreviatedPath": "\/images\/bieg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/czesci\/e45af-23525b1a01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 343545,
+		"inputAbbreviatedPath": "\/images\/czesci\/e45af-23525b1a01.jpg",
+		"outputAbbreviatedPath": "\/images\/czesci\/e45af-23525b1a01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/czesci\/katalog1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

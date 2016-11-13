@@ -6781,7 +6781,7 @@ hr {
 .navbar-inverse {
   background-color: transparent;
   border: none;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   color: #000;
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -6829,6 +6829,40 @@ hr {
   background-color: #000;
   border-color: #CD2835;
 }
+#custom-search-input {
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
+}
+#custom-search-input .search-query {
+  padding-right: 3px;
+  padding-right: 4px \9;
+  padding-left: 3px;
+  padding-left: 4px \9;
+  /* IE7-8 doesn't have border-radius, so don't indent the padding */
+  margin-bottom: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+#custom-search-input button {
+  border: 0;
+  background: none;
+  /** belows styles are working good */
+  padding: 2px 5px;
+  margin-top: 2px;
+  position: relative;
+  left: -28px;
+  /* IE7-8 doesn't have border-radius, so don't indent the padding */
+  margin-bottom: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  color: #D9230F;
+}
+.search-query:focus + button {
+  z-index: 3;
+}
 #slider {
   padding-top: 99px;
 }
@@ -6844,6 +6878,10 @@ hr {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.8);
   border-top: 2px solid rgba(255, 255, 255, 0.2);
   padding-top: 3%;
+  padding-bottom: 3%;
+}
+#nowosci a:hover {
+  text-decoration: none;
 }
 #nowosci h2 {
   line-height: 2rem;
