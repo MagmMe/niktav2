@@ -483,6 +483,138 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/logo_machines\/atom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2777,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/atom.png",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/atom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/atom_logo.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51052,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/atom_logo.jpeg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/atom_logo.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/atom_logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11343,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/atom_logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/atom_logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/colli_logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14122,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/colli_logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/colli_logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/colli_logo_2013.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21741,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/colli_logo_2013.jpeg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/colli_logo_2013.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/comelz_logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10108,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/comelz_logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/comelz_logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/famas_logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11928,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/famas_logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/famas_logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/FamasGroup-Logo_11dic15-350.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28086,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/FamasGroup-Logo_11dic15-350.png",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/FamasGroup-Logo_11dic15-350.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/logo-Comelz-1-bianco.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10166,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/logo-Comelz-1-bianco.png",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/logo-Comelz-1-bianco.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/sabal_logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11930,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/sabal_logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/sabal_logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/sabal_logo_2013.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73179,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/sabal_logo_2013.jpeg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/sabal_logo_2013.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_machines\/sazavan_logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14260,
+		"inputAbbreviatedPath": "\/images\/logo_machines\/sazavan_logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo_machines\/sazavan_logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/mach1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
