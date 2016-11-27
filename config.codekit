@@ -329,6 +329,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/Fotolia_69684390_S.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152131,
+		"inputAbbreviatedPath": "\/images\/Fotolia_69684390_S.jpg",
+		"outputAbbreviatedPath": "\/images\/Fotolia_69684390_S.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/home-bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1084,17 +1095,6 @@
 		"initialSize": 241044,
 		"inputAbbreviatedPath": "\/images\/shoes.jpg",
 		"outputAbbreviatedPath": "\/images\/shoes.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/shoes_internet.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 768337,
-		"inputAbbreviatedPath": "\/images\/shoes_internet.png",
-		"outputAbbreviatedPath": "\/images\/shoes_internet.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
