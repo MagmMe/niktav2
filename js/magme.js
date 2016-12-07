@@ -59,3 +59,11 @@ $(document).ready(function(){
     });
 });
 
+// Pasek inforacmi o Cookie
+
+$(document).ready(function(){
+
+  $.cookieBar();
+
+});
+
