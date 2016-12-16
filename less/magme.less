@@ -11,7 +11,33 @@
 @magmeGrey: #DEE2E2;
 @magmeDarkRed: #CD2835;
 
+// **********************
+// Main -> line: 39
+// Logo ->			93
+// Menu Główne ->  103
+// Języki			163
+// Wyszukiwarka    189
+// Slider          231
+// Nowości Wyróżnione maszyny -> 245
+// Footer      355
 
+// Podstrony
+// O nas   377
+// Kontakt 477
+// Maszyny 497
+// Materiały 599
+// Części 685
+// Katalogi 727
+// Skup maszyn 760
+// Produkt Single 767
+// Częsci Single 847
+// Materiały Single
+
+// Responsive 855
+
+// ********************
+
+// Main
 html, body {
 	height: 100%;
 	width: 100%;
@@ -135,7 +161,6 @@ hr {
 }
 
 
-
 // Języki
 
 #moje-menu .lang_magme{
@@ -147,7 +172,6 @@ hr {
 	}
 
 }
-
 
 #moje-menu .dropdown-menu a:hover{
 	background-color: @magmeDarkRed;
@@ -221,8 +245,7 @@ background-color: @magmeRed;
 
 // Nowości
 
-
-/* Nowości */
+/* Nowości - wyróżnione maszyny  */
 
 	#nowosci{
 		-webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);
@@ -235,8 +258,6 @@ background-color: @magmeRed;
 			text-decoration: none;
 
 		}
-
-
 
 			h2 {
 		line-height: 2rem;
@@ -305,8 +326,6 @@ background-color: @magmeRed;
 	}
 
 
-	// Szybki kontakt
-
 	/* Kontakt */
 
 #kontakt {
@@ -331,7 +350,6 @@ background-color: @magmeRed;
 	}
 }
 
-// Footer
 
 /* Footer */
 
@@ -370,14 +388,14 @@ background-color: @magmeRed;
 
     background: url('../images/shoes.jpg');
     background-size: cover;
-    max-height: 450px;
+    max-height: 470px;
     max-width: 100%;
 
     &:before {
       content: '';
       height: 100%;
       width: 100%;
-      max-height: 450px;
+      max-height: 470px;
       max-width: 100%;
       background: rgba(0,0,0,.3);
       position: absolute;
@@ -402,7 +420,7 @@ background-color: @magmeRed;
   .content {
     position: absolute;
     z-index: 1000;
-    top: 70vh;
+    top: 50vh;
 
     background: rgb(255,255,255);
     height: 100vh;
@@ -510,9 +528,6 @@ background-color: @magmeRed;
 	padding-top: 0px;
 	margin-top:0px;
 }
-
-
-
 
 .thumbnail {
 	border: none;
@@ -749,7 +764,7 @@ background-color: @magmeRed;
 }
 
 
-// Product Page
+// Produkt Single
 
 
 .productPage{
@@ -779,8 +794,6 @@ background-color: @magmeRed;
     	}
 	}
 }
-
-
 
 
 .productNikta img {
@@ -831,7 +844,6 @@ background-color: @magmeRed;
     	}
 }
 
-
 // materialySingle
 
 .materialySingle{
@@ -841,6 +853,12 @@ background-color: @magmeRed;
 
 
 @media (max-width: @screen-sm-min) {
+
+	.navbar-form  {
+		width: 100%;
+		border-top: 0;
+		border-bottom: 0;
+	}
 
 	#nowosci h2 {
 		line-height: 4rem !important;
@@ -956,6 +974,14 @@ background-color: @magmeRed;
 		padding-top: 150px;
 	}
 
+	.maszynyKafelki .btn {
+		padding: 2px;
+	}
+
+	#custom-search-input {
+		display: none;
+	}
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -965,6 +991,10 @@ background-color: @magmeRed;
 
 	.navbar-inverse{
 		font-size: .9rem;
+	}
+
+	#custom-search-input {
+		display: none;
 	}
 }
 
